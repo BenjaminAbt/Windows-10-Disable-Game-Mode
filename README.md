@@ -6,7 +6,7 @@ Now you have to disable the Game Mode via the Windows registry.
 
 ## Disable
 
-Create a new value named `AllowAutoGameMode` in `HKEY_CURRENT_USER\Software\Microsoft\GameBar
+Create a new value named `AllowAutoGameMode` in `HKEY_CURRENT_USER\Software\Microsoft\GameBar`
 
 Set the value as `DWORD 32 bit` with following value data (hex): 0
 
